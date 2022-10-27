@@ -1,12 +1,12 @@
 package Scenario;
 
 import org.junit.Test;
-import page.checkFunction;
+import page.methodTodo;
 
-public class todo_Scenario {
+public class verify_Flow {
     @Test
     public void verifyRequiredFlow() {
-        checkFunction CF = new checkFunction();
+        methodTodo CF = new methodTodo();
 
         //1. Login using your github account.
         CF.SignIn();

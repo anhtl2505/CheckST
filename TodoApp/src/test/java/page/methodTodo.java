@@ -7,8 +7,8 @@ import org.openqa.selenium.By;
 import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.Selenide.*;
 
-public class checkFunction {
-    Todo_page TP = new Todo_page();
+public class methodTodo {
+    pageTodo TP = new pageTodo();
     String data_email = "shikaru2505@gmail.com";
     String password = "Alec753!@#";
     String[] list = new String[10];

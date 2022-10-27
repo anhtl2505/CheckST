@@ -5,7 +5,7 @@ import static com.codeborne.selenide.Selenide.$x;
 
 
 
-public class Todo_page {
+public class pageTodo {
 
     public SelenideElement btn_GitHubSignIn() {
         return $x("//span[@class='fa fa-github']");
