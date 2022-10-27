@@ -10,7 +10,8 @@
 #### Follow: src/test/java/page/methodTodo.java  to check methods in Todo page
 #### Follow: src/test/java/Scenario/verify_Flow.java to check steps follow document
 #### Follow: build/reports/tests to check .html file or images in case any steps failed
-###Run
+
+### Run
 #### 1/Just click the icon play display next to the annotation @Test to run specific test cases
 #### 2/Just click the icon play display next to the verify_Flow class to run all test cases.
 
